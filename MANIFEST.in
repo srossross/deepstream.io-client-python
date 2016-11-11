@@ -1,0 +1,2 @@
+include versioneer.py
+include deepstream/_version.py
